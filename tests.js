@@ -67,5 +67,6 @@ module.exports = {
     /*64*/ test( "19312285,bbaababbaaba", "+" );
     /*65*/ test( "11485959,baaaaababaaa", "-" );
     /*66*/ test( "36831104,babbbbbbabab", "+" );
+    /*67*/ test( "1000000000000000000000000000000000000000000,babbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbabbabbbbbbab", "-" );
   }
 }
