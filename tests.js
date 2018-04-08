@@ -61,11 +61,11 @@ module.exports = {
     /*58*/ test( "11202113,baaaaabbbba", "0" );
     /*59*/ test( "5432578,abaabbaaaaa", "-" );
     /*60*/ test( "17363025,bbaabababbb", "0" );
-    // /*61*/ test( "24147656,baabaabbbbab", "0" );
-    // /*62*/ test( "1078733,bbbaaaabbbbb", "+" );
-    // /*63*/ test( "38623426,abaabababbaa", "-" );
-    // /*64*/ test( "19312285,bbaababbaaba", "+" );
-    // /*65*/ test( "11485959,baaaaababaaa", "-" );
-    // /*66*/ test( "36831104,babbbbbbabab", "+" );
+    /*61*/ test( "24147656,baabaabbbbab", "0" );
+    /*62*/ test( "1078733,bbbaaaabbbbb", "+" );
+    /*63*/ test( "38623426,abaabababbaa", "-" );
+    /*64*/ test( "19312285,bbaababbaaba", "+" );
+    /*65*/ test( "11485959,baaaaababaaa", "-" );
+    /*66*/ test( "36831104,babbbbbbabab", "+" );
   }
 }
